@@ -1,7 +1,8 @@
 This code was used in the Physical Review E paper titled "$1/f$ noise in the Ising model" by Rahul Chhimpa and Avinash Chand Yadav.
 If you use this code in your work, please cite the above article. 
 All of the simulations are performed in FORTRAN, while the visualization is in Python. We provide Fortran codes, Python files, and data files.
-------------------------------------------------------------------------------------------------------------------------\
+
+------------------------------------------------------------------------------------------------------------------------
 
 In Fortran codes, the intrinsic routine generates random numbers using the `xoshiro256 pseudorandom number generator (PRNG)`. 
 
